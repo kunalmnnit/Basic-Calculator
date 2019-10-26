@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Calculator",
+    "slug": "Calculator",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "android": {
+      "package": "com.kunal.calculator"
+    },
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "description": "",
+    "githubUrl": "https://github.com/kunalmnnit/Basic-Calculator"
+  }
+}
